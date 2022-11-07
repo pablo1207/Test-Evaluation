@@ -1,0 +1,30 @@
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\LocalProjects\Test.Contpaqi.DevJr\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

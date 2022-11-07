@@ -1,0 +1,62 @@
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.exe
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.deps.json
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.runtimeconfig.json
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.runtimeconfig.dev.json
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.dll
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Application.dll
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Domain.dll
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Application.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.csproj.AssemblyReference.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.AssemblyInfoInputs.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.AssemblyInfo.cs
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.csproj.CoreCompileInputs.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.MvcApplicationPartsAssemblyInfo.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\staticwebassets\Test.Contpaqi.DevJr.StaticWebAssets.Manifest.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.RazorTargetAssemblyInfo.cache
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.csproj.CopyComplete
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.dll
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.genruntimeconfig.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.exe
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.deps.json
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.runtimeconfig.json
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.runtimeconfig.dev.json
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.dll
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Application.dll
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Domain.dll
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Application.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.csproj.AssemblyReference.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.AssemblyInfoInputs.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.AssemblyInfo.cs
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.csproj.CoreCompileInputs.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.MvcApplicationPartsAssemblyInfo.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\staticwebassets\Test.Contpaqi.DevJr.StaticWebAssets.Manifest.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\staticwebassets\Test.Contpaqi.DevJr.StaticWebAssets.xml
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test.Contpaqi.DevJr.styles.css
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.RazorTargetAssemblyInfo.cache
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.csproj.CopyComplete
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.dll
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.pdb
+C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.genruntimeconfig.cache
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.csproj.AssemblyReference.cache
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.AssemblyInfoInputs.cache
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.AssemblyInfo.cs
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.csproj.CoreCompileInputs.cache
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.dll
+C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Test.Contpaqi.DevJr\obj\Debug\netcoreapp3.1\Test.Contpaqi.DevJr.pdb
