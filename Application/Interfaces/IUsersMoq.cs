@@ -9,5 +9,7 @@ namespace Application.Interfaces
     {
         IEnumerable<User> Get();
         IEnumerable<User> Find(Expression<Func<User, bool>> expression);
+
+    
     }
 }

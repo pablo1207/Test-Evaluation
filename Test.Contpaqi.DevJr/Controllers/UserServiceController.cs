@@ -25,21 +25,24 @@ namespace Test.Contpaqi.DevJr.Controllers
         }
 
         [HttpGet]
+        [Route("GetAllUsers")]
         public async Task<IActionResult> Get()
         {
-            return Ok(_getUsersCommand.Get());
+            return Ok( await _getUsersCommand.Get());
         }
 
         [HttpGet]
+        [Route("GetByIdUser")]
         public async Task<IActionResult> GetById(Guid id)
         {
-            return Ok(_getUsersCommand.FindById(id));
+            return Ok( await _getUsersCommand.FindById(id));
         }
 
         [HttpGet]
+        [Route("GetByDepartament")]
         public async Task<IActionResult> GetByDepartament(string departament)
         {
-            throw new NotImplementedException();
+            return Ok(await _getUsersCommand.GetByDepartament(departament));
         }
     }
 }

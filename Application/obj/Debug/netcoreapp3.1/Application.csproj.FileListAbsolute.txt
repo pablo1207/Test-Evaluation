@@ -24,10 +24,16 @@ C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcore
 C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
 C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.dll
 C:\LocalProjects\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.pdb
-C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
-C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
-C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
-C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
-C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Application\obj\Debug\netcoreapp3.1\Application.dll
-C:\Users\Ambit\Desktop\Proyectos\Test-Evaluation\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Ambit\Desktop\Dalton\Test.Contpaqi.DevJr - Pablo Lopez\Test.Contpaqi.DevJr - Pablo Lopez\Application\obj\Debug\netcoreapp3.1\Application.pdb

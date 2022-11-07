@@ -24,7 +24,7 @@ namespace Test.Contpaqi.DevJr
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            InitializeProjectServices();
+            InitializeProjectServices(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,7 +51,8 @@ namespace Test.Contpaqi.DevJr
         public void InitializeProjectServices(IServiceCollection services)
         {
             services.AddScoped<IBaseRepositoryService<User>, UserRepositoryService>();
-            services.AddScoped<IGetUsersCommand, IGetUsersCommand>();
+            services.AddScoped<IGetUsersCommand, GetUsersCommand>();
+            services.AddScoped<IUsersMoq, UsersMoq>();
         }
 
         #endregion

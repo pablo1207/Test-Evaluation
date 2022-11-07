@@ -25,5 +25,6 @@ namespace Persistence.Repositories
         {
             return _usersMoq.Get();
         }
+
     }
 }

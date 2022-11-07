@@ -9,5 +9,7 @@ namespace Application.Interfaces
     {
         Task<IEnumerable<User>> Get();
         Task<User> FindById(Guid id);
+
+        Task<IEnumerable<User>> GetByDepartament(string departament);
     }
 }
