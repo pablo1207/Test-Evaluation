@@ -25,14 +25,14 @@ namespace Test.Contpaqi.DevJr.Controllers
         }
 
         [HttpGet]
-        [Route("GetAllUsers")]
+        [Route("Get")]
         public async Task<IActionResult> Get()
         {
             return Ok( await _getUsersCommand.Get());
         }
 
         [HttpGet]
-        [Route("GetByIdUser")]
+        [Route("GetById")]
         public async Task<IActionResult> GetById(Guid id)
         {
             return Ok( await _getUsersCommand.FindById(id));
